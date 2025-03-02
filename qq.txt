@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/999.txt@proxyip.amclubs.camdvr.org
-https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/result.csv
+https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/US-4.csv

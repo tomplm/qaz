@@ -1,3 +1,1 @@
 https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/999.txt@proxyip.amclubs.camdvr.org
-https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/zhang.csv@proxyip.amclubs.camdvr.org
-https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/result.csv@proxyip.amclubs.camdvr.org

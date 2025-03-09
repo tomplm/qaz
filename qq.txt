@@ -1,3 +1,2 @@
 https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/999.txt@proxyip.amclubs.camdvr.org
-https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/ipv4.csv@proxyip.amclubs.camdvr.org
-
+https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/ipv4.csv@127.245.11.115

@@ -1,5 +1,5 @@
 141.101.121.228#1号
 108.162.195.148#2号
 141.101.120.139#3号
-https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/result.csv#测速
 141.101.121.228#4号
+

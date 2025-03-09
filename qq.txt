@@ -1,4 +1,3 @@
 https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/999.txt@proxyip.amclubs.camdvr.org
-https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/result.csv
-https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv
-https://github.com/tomplm/qaz/raw/refs/heads/main/ipv4.csv
+https://raw.githubusercontent.com/tomplm/qaz/refs/heads/main/ipv4.csv
+
